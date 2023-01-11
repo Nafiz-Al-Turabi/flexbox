@@ -39,7 +39,13 @@ body {
     color: #767676;
     font-size: 18px;
 }
-
-
+.intro span{
+    color: #00663d;
+}
+.img-container {
+    background-color: green;
+    height: 100%;
+    width: 50%;
+}
 
 
