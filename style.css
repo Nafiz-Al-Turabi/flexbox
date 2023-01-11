@@ -55,3 +55,9 @@ body {
     object-position: left;
 }
 
+.stat {
+    display: flex;
+    gap: 70px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
