@@ -32,6 +32,13 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
+.intro h1{
+    margin-bottom: 30px;
+}
+.intro p{
+    color: #767676;
+    font-size: 18px;
+}
 
 
 
