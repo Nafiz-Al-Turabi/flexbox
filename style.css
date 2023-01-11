@@ -17,6 +17,12 @@ body {
     align-items: center;
 }
 
+.container {
+    background-color: #0d002b;
+    height: 70Vh;
+    width: 70%;
+    display: flex;
+}
 
 
 
